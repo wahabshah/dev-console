@@ -1,0 +1,10 @@
+body
+{
+    background: url("1.jpg") center center fixed;
+    background-size:cover;
+    font-family: Verdana;
+    text-shadow: 1px 1px 8px black;
+}
+h1{
+    text-align: center
+}
